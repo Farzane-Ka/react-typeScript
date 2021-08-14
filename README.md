@@ -3,9 +3,9 @@ This is an application for making a form to search terms and fetching data from 
 
 To run this app in react:
 1) install node.js
-2) in the directory install:
-    1)npm install --save redux
-    2)npm install axios –save
-    3)npm install --save redux-thunk
-3) in the directory:
-    1)nmp start
+2) in the directory run:
+    1) npm install --save redux
+    2) npm install axios –save
+    3) npm install --save redux-thunk
+3) in the directory run:
+    1) nmp start
